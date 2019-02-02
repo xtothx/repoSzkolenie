@@ -1,1 +1,3 @@
 # repoSzkolenie
+
+Pierwszy wpis.
