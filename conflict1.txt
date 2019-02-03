@@ -1,3 +1,4 @@
 user GetUser(){
  return User;
+ DUPA
 }
